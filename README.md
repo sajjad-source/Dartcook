@@ -32,6 +32,6 @@ Follow these steps to set up Dartcook for local development:
 
 1. Clone the repository:
    ```bash
-   git clone https://your-repository-link
+   git clone https://github.com/sajjad-source/Dartcook.git
    cd dartcook
    ```
