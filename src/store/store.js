@@ -1,6 +1,8 @@
 import { create } from 'zustand';
 import axios from 'axios';
 
+// TODO: Add Firebase functionality for CRUD operations
+
 const useMainStore = create((set, get) => ({
   all: [],
   current: {},
